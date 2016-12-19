@@ -26,6 +26,6 @@ Observe the files in this repo:
 * When you are finished, the preview should look like `result.png`.
 * Beautify your code so that you can easily see which elements are _inside_ of others (very helpful for debugging `div`s).  
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
-* Mirror your `master` branch with a `gh-pages` branch and `push`.
+* After you push your changes, set gh-pages to use the **master** branch and use the URL to check that it worked!
 
 Good luck!
